@@ -21,7 +21,7 @@
 <li>价格变化等重要业务消息</li>
 </ol>
 <h1>项目介绍</h1>
-<p style="font-size: 14px;">   名称：canal [kə'næl]</p>
+ <p style="font-size: 14px;">   名称：canal [kə'næl]</p>
 <p style="font-size: 14px;">   译意： 水道/管道/沟渠 </p>
 <p style="font-size: 14px;">   语言： 纯java开发</p>
 <p style="font-size: 14px;">   定位： 基于数据库增量日志解析，提供增量数据订阅&amp;消费，目前主要支持了mysql</p>
